@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Hangman Game Challenge
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolva um jogo Hangman (forca) em linha de comando para praticar manipulação de strings, laços, condicionais e entrada do usuário. O jogador deve adivinhar uma palavra letra a letra antes de ficar sem tentativas.
 
-## 📝 Tarefas
+## Tarefas
 
 ### 🛠️	Build the Hangman Game
 
